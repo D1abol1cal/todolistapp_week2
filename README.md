@@ -1,18 +1,15 @@
-# todolistapp_week2
+# Flutter Todo List
 
-A new Flutter project.
+Flutter Todo List is a simple yet powerful Flutter application designed to help users organize their tasks and manage their daily activities. Developed as a university assignment, this project demonstrates the implementation of a todo list app using Flutter.
 
-## Getting Started
+# Roll Numbers
+- **Syed Nofel Talha (20K-0151)**
+- **Arhum Hashmi (20K-1892)**
+- **Maarib Ul Haq Siddiqui (20K-0202)**
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Task Management:** Add, edit, and delete tasks with ease.
+- **University Assignmetn:** Developed as part of a university assignment to demonstrate practical knowledge of REST API integration in Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-![alt text](image-1.png)
