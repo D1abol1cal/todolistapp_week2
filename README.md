@@ -12,4 +12,7 @@ Flutter Todo List is a simple yet powerful Flutter application designed to help 
 - **Task Management:** Add, edit, and delete tasks with ease.
 - **University Assignmetn:** Developed as part of a university assignment to demonstrate practical knowledge of REST API integration in Flutter.
 
+## Screenshots
+
+![alt text](image-1.png)
 
